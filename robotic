@@ -1,0 +1,5 @@
+initialize() - called once when the command is scheduled
+execute() - called repeatedly every 20 ms
+end()
+isFinished() - check after every execute(), true -> finish
+getInterruptBehavior()
